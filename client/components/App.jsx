@@ -1,6 +1,7 @@
-import React from "react";
-import ReactDOM from "react-dom";
+import React from 'react';
+import ReactDOM from 'react-dom';
+import LandingPage from './Landing.jsx';
 
-const App = () => (<div>Hello World!</div>);
+const App = () => <LandingPage />;
 
 export default App;
