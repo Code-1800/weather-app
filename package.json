@@ -30,6 +30,8 @@
   },
   "dependencies": {
     "css-loader": "^5.1.0",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "style-loader": "^2.0.0"
